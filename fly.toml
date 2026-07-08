@@ -1,0 +1,7 @@
+app = "telegram-bot-zx-qsw"
+
+primary_region = "cdg"
+
+[build]
+
+[env]
